@@ -74,8 +74,8 @@ root.title("Point")
 root.resizable(False, False)
 
 style = ttk.Style()
-style.theme_use('alt')
-style.configure('.', foreground='white', background='#191919')
+style.theme_use('default')
+style.configure('.', foreground='black', background='white')
 style.configure('TCombobox', foreground='black', background='white', padding=1)
 
 current_index = 0
