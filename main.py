@@ -27,9 +27,6 @@ def read_txt_file(file_name):
 
     return data
 
-file_name = 'your_file_path.txt'
-results = read_txt_file(file_name)
-
 def format_coordinate(coordinate):
     integer_part, decimal_part = coordinate.split('.')
     
