@@ -1,255 +1,298 @@
-type	latitude	longitude	scale	sym	name	ge_hotspot
-W	-3.130470636	-59.991535497	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [1:Point]	20,2
-W	-3.130923561	-59.991775968	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [2:Point]	20,2
-W	-3.131127896	-59.991968803	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [3:Point]	20,2
-W	-3.131298740	-59.992190068	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [4:Point]	20,2
-W	-3.131444065	-59.992388009	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [5:Point]	20,2
-W	-3.131604860	-59.992643108	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [6:Point]	20,2
-W	-3.131745991	-59.992838700	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [7:Point]	20,2
-W	-3.131968938	-59.993103041	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [8:Point]	20,2
-W	-3.132111668	-59.993284411	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [9:Point]	20,2
-W	-3.132311603	-59.993546711	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [10:Point]	20,2
-W	-3.132234659	-59.993634008	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [11:Point]	20,2
-W	-3.132368114	-59.993826694	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [12:Point]	20,2
-W	-3.132546467	-59.994068673	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [13:Point]	20,2
-W	-3.132744782	-59.994317094	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [14:Point]	20,2
-W	-3.132967034	-59.994592176	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [15:Point]	20,2
-W	-3.133145308	-59.994816731	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [16:Point]	20,2
-W	-3.133332094	-59.995102273	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [17:Point]	20,2
-W	-3.133573922	-59.995397288	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [18:Point]	20,2
-W	-3.133730044	-59.995617904	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [19:Point]	20,2
-W	-3.133923152	-59.995886255	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [20:Point]	20,2
-W	-3.134084089	-59.996131116	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [21:Point]	20,2
-W	-3.134320241	-59.996435192	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [22:Point]	20,2
-W	-3.134518159	-59.996676477	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [23:Point]	20,2
-W	-3.134696303	-59.996942642	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [24:Point]	20,2
-W	-3.134875023	-59.997170781	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [25:Point]	20,2
-W	-3.135074047	-59.997441589	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [26:Point]	20,2
-W	-3.135242544	-59.997650140	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [27:Point]	20,2
-W	-3.135390105	-59.997824383	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [28:Point]	20,2
-W	-3.135561834	-59.998073472	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [29:Point]	20,2
-W	-3.135727513	-59.998292645	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [30:Point]	20,2
-W	-3.135878937	-59.998512932	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [31:Point]	20,2
-W	-3.135991971	-59.998724152	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [32:Point]	20,2
-W	-3.136131513	-59.999067515	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [33:Point]	20,2
-W	-3.136249072	-59.999334407	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [34:Point]	20,2
-W	-3.136336482	-59.999639858	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP01 [35:Point]	20,2
-W	-3.134583817	-60.001334945	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [1:Point]	20,2
-W	-3.134788764	-60.001105734	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [2:Point]	20,2
-W	-3.134978831	-60.000897076	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [3:Point]	20,2
-W	-3.135176328	-60.000650948	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [4:Point]	20,2
-W	-3.135423336	-60.000428794	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [5:Point]	20,2
-W	-3.135709934	-60.000206742	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [6:Point]	20,2
-W	-3.136005322	-60.000073114	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [7:Point]	20,2
-W	-3.136291814	-59.999914886	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [8:Point]	20,2
-W	-3.136853728	-59.999890457	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [9:Point]	20,2
-W	-3.137214399	-60.000027836	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [10:Point]	20,2
-W	-3.137413143	-60.000106398	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [11:Point]	20,2
-W	-3.137643939	-60.000130174	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [12:Point]	20,2
-W	-3.137907838	-60.000154453	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [13:Point]	20,2
-W	-3.138180975	-60.000158874	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [14:Point]	20,2
-W	-3.138556448	-60.000195619	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [15:Point]	20,2
-W	-3.138836814	-60.000204901	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [16:Point]	20,2
-W	-3.139136874	-60.000135568	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP02 [17:Point]	20,2
-W	-3.131780266	-59.991938654	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [1:Point]	20,2
-W	-3.131929830	-59.992107304	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [2:Point]	20,2
-W	-3.132204605	-59.992448439	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [3:Point]	20,2
-W	-3.132363086	-59.992620036	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [4:Point]	20,2
-W	-3.132379641	-59.992759031	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [5:Point]	20,2
-W	-3.132647829	-59.993058072	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [6:Point]	20,2
-W	-3.133960339	-59.994819507	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [7:Point]	20,2
-W	-3.134177472	-59.995096860	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [8:Point]	20,2
-W	-3.134376611	-59.995363360	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [9:Point]	20,2
-W	-3.134538019	-59.995596244	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP03 [10:Point]	20,2
-W	-3.133117715	-59.992114554	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [1:Point]	20,2
-W	-3.133263780	-59.992335836	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [2:Point]	20,2
-W	-3.133331845	-59.992516122	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [3:Point]	20,2
-W	-3.133474507	-59.992727335	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [4:Point]	20,2
-W	-3.133676295	-59.992985367	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [5:Point]	20,2
-W	-3.133798895	-59.993182512	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [6:Point]	20,2
-W	-3.134195270	-59.993674907	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [7:Point]	20,2
-W	-3.135031483	-59.994831422	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [8:Point]	20,2
-W	-3.135335508	-59.995249814	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [9:Point]	20,2
-W	-3.135659155	-59.995656727	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [10:Point]	20,2
-W	-3.135749247	-59.995804049	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [11:Point]	20,2
-W	-3.135871112	-59.995994562	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [12:Point]	20,2
-W	-3.136035695	-59.996203720	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [13:Point]	20,2
-W	-3.136137503	-59.996333781	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [14:Point]	20,2
-W	-3.136442774	-59.996771133	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [15:Point]	20,2
-W	-3.136608551	-59.996958197	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [16:Point]	20,2
-W	-3.136760023	-59.997158412	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP04 [17:Point]	20,2
-W	-3.130674117	-59.993017321	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [1:Point]	20,2
-W	-3.130872227	-59.992777792	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [2:Point]	20,2
-W	-3.131150213	-59.992450337	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [3:Point]	20,2
-W	-3.131234493	-59.992338051	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [4:Point]	20,2
-W	-3.131462227	-59.992082032	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [5:Point]	20,2
-W	-3.131692911	-59.991823841	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [6:Point]	20,2
-W	-3.131927323	-59.991573201	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [7:Point]	20,2
-W	-3.132076107	-59.991385069	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [8:Point]	20,2
-W	-3.132262257	-59.991194130	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [9:Point]	20,2
-W	-3.132665081	-59.990748334	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [10:Point]	20,2
-W	-3.132924356	-59.990454183	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [11:Point]	20,2
-W	-3.133235189	-59.990239727	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [12:Point]	20,2
-W	-3.133437737	-59.990160427	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [13:Point]	20,2
-W	-3.133584493	-59.990135304	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [14:Point]	20,2
-W	-3.133837237	-59.990169564	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [15:Point]	20,2
-W	-3.134094728	-59.990291407	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [16:Point]	20,2
-W	-3.134351981	-59.990423905	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [17:Point]	20,2
-W	-3.134698633	-59.990622990	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [18:Point]	20,2
-W	-3.134975110	-59.990723412	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [19:Point]	20,2
-W	-3.135258730	-59.990778082	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [20:Point]	20,2
-W	-3.135609678	-59.990801379	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [21:Point]	20,2
-W	-3.135865411	-59.990812307	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [22:Point]	20,2
-W	-3.136406421	-59.990860581	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [23:Point]	20,2
-W	-3.136617888	-59.990958353	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [24:Point]	20,2
-W	-3.136647401	-59.991105298	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [25:Point]	20,2
-W	-3.136821980	-59.991240831	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [26:Point]	20,2
-W	-3.136990067	-59.991381978	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [27:Point]	20,2
-W	-3.137141031	-59.991506787	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [28:Point]	20,2
-W	-3.137339630	-59.991668001	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [29:Point]	20,2
-W	-3.137622034	-59.991904094	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [30:Point]	20,2
-W	-3.137741128	-59.992026042	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [31:Point]	20,2
-W	-3.137967159	-59.992110753	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP05 [32:Point]	20,2
-W	-3.133166477	-59.996610285	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [1:Point]	20,2
-W	-3.132627652	-59.996271177	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [2:Point]	20,2
-W	-3.132446001	-59.996162737	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [3:Point]	20,2
-W	-3.132147178	-59.995992767	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [4:Point]	20,2
-W	-3.131603920	-59.995475553	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [5:Point]	20,2
-W	-3.130866201	-59.994621010	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [6:Point]	20,2
-W	-3.131270205	-59.994318113	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [7:Point]	20,2
-W	-3.131730555	-59.993981428	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [8:Point]	20,2
-W	-3.131988191	-59.993804317	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [9:Point]	20,2
-W	-3.132663333	-59.993330925	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [10:Point]	20,2
-W	-3.132959667	-59.993124911	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [11:Point]	20,2
-W	-3.133249379	-59.992936266	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP06 [12:Point]	20,2
-W	-3.131517768	-59.994792163	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP07 [1:Point]	20,2
-W	-3.131713937	-59.994647566	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP07 [2:Point]	20,2
-W	-3.131952544	-59.994481014	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP07 [3:Point]	20,2
-W	-3.132327825	-59.994203295	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP07 [4:Point]	20,2
-W	-3.133021571	-59.993708744	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP07 [5:Point]	20,2
-W	-3.131824611	-59.995377062	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [1:Point]	20,2
-W	-3.132059012	-59.995212424	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [2:Point]	20,2
-W	-3.132231326	-59.995089885	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [3:Point]	20,2
-W	-3.132408087	-59.994953661	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [4:Point]	20,2
-W	-3.132714375	-59.994737739	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [5:Point]	20,2
-W	-3.133404147	-59.994236239	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [6:Point]	20,2
-W	-3.133630759	-59.994071660	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [7:Point]	20,2
-W	-3.133839371	-59.993933054	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [8:Point]	20,2
-W	-3.134057967	-59.993771832	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP08 [9:Point]	20,2
-W	-3.132690871	-59.995541719	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [1:Point]	20,2
-W	-3.133120104	-59.995230866	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [2:Point]	20,2
-W	-3.133606329	-59.994881125	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [3:Point]	20,2
-W	-3.133820140	-59.994735637	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [4:Point]	20,2
-W	-3.134037108	-59.994576750	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [5:Point]	20,2
-W	-3.134295130	-59.994380928	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [6:Point]	20,2
-W	-3.134489877	-59.994242980	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [7:Point]	20,2
-W	-3.134691974	-59.994110710	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [8:Point]	20,2
-W	-3.134849233	-59.994019398	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [9:Point]	20,2
-W	-3.134994758	-59.994055944	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [10:Point]	20,2
-W	-3.135265969	-59.994140106	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [11:Point]	20,2
-W	-3.135670080	-59.994186299	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [12:Point]	20,2
-W	-3.135975060	-59.994290841	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [13:Point]	20,2
-W	-3.136299033	-59.994386442	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP09 [14:Point]	20,2
-W	-3.132932707	-59.996369758	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [1:Point]	20,2
-W	-3.133084147	-59.996126657	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [2:Point]	20,2
-W	-3.133217819	-59.995955893	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [3:Point]	20,2
-W	-3.133519323	-59.995745781	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [4:Point]	20,2
-W	-3.133984040	-59.995421865	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [5:Point]	20,2
-W	-3.134231703	-59.995234104	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [6:Point]	20,2
-W	-3.134428512	-59.995096651	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [7:Point]	20,2
-W	-3.134681359	-59.994916742	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [8:Point]	20,2
-W	-3.134887817	-59.994771324	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [9:Point]	20,2
-W	-3.135126645	-59.994599659	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [10:Point]	20,2
-W	-3.135246981	-59.994500469	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [11:Point]	20,2
-W	-3.135465435	-59.994327987	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP10 [12:Point]	20,2
-W	-3.134608901	-59.995730000	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP11 [1:Point]	20,2
-W	-3.134800781	-59.995594904	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP11 [2:Point]	20,2
-W	-3.135085611	-59.995398867	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP11 [3:Point]	20,2
-W	-3.135524119	-59.995114147	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP11 [4:Point]	20,2
-W	-3.135755671	-59.994929143	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP11 [5:Point]	20,2
-W	-3.135950659	-59.994799072	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP11 [6:Point]	20,2
-W	-3.136186281	-59.994622884	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP11 [7:Point]	20,2
-W	-3.132619426	-59.998949515	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [1:Point]	20,2
-W	-3.132853482	-59.998697546	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [2:Point]	20,2
-W	-3.133038849	-59.998547815	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [3:Point]	20,2
-W	-3.133271259	-59.998448241	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [4:Point]	20,2
-W	-3.133468247	-59.998323245	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [5:Point]	20,2
-W	-3.133588626	-59.998151470	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [6:Point]	20,2
-W	-3.133692307	-59.997999816	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [7:Point]	20,2
-W	-3.133865933	-59.997678400	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [8:Point]	20,2
-W	-3.133989006	-59.997461894	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [9:Point]	20,2
-W	-3.134167029	-59.997138151	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [10:Point]	20,2
-W	-3.134367842	-59.996786534	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [11:Point]	20,2
-W	-3.134752776	-59.996468315	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [12:Point]	20,2
-W	-3.135003762	-59.996291670	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [13:Point]	20,2
-W	-3.135192721	-59.996173017	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [14:Point]	20,2
-W	-3.135426856	-59.995997699	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [15:Point]	20,2
-W	-3.135901370	-59.995636838	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [16:Point]	20,2
-W	-3.136149083	-59.995466717	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [17:Point]	20,2
-W	-3.136582738	-59.995161552	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP12 [18:Point]	20,2
-W	-3.135385198	-59.996835450	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP13 [1:Point]	20,2
-W	-3.135583082	-59.996689979	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP13 [2:Point]	20,2
-W	-3.135858116	-59.996497757	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP13 [3:Point]	20,2
-W	-3.136294525	-59.996203340	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP13 [4:Point]	20,2
-W	-3.136782767	-59.995841430	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP13 [5:Point]	20,2
-W	-3.134325977	-59.998483738	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [1:Point]	20,2
-W	-3.134534418	-59.998313749	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [2:Point]	20,2
-W	-3.135516958	-59.997451933	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [3:Point]	20,2
-W	-3.135705587	-59.997306869	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [4:Point]	20,2
-W	-3.135945324	-59.997140094	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [5:Point]	20,2
-W	-3.136185699	-59.996959644	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [6:Point]	20,2
-W	-3.133314756	-59.999746138	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [1:Point]	20,2
-W	-3.133796304	-59.999507034	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [2:Point]	20,2
-W	-3.134282996	-59.999256728	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [3:Point]	20,2
-W	-3.134654715	-59.999037618	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [4:Point]	20,2
-W	-3.135103989	-59.998734550	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [5:Point]	20,2
-W	-3.135460679	-59.998487471	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [6:Point]	20,2
-W	-3.136227661	-59.997908886	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [7:Point]	20,2
-W	-3.136642392	-59.997614280	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [8:Point]	20,2
-W	-3.136955467	-59.997394556	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [9:Point]	20,2
-W	-3.137290884	-59.997133548	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP14 [10:Point]	20,2
-W	-3.136416529	-60.000496495	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP15 [1:Point]	20,2
-W	-3.136853521	-60.000842966	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP15 [2:Point]	20,2
-W	-3.137278074	-60.001167618	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP15 [3:Point]	20,2
-W	-3.137685970	-60.001450172	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP15 [4:Point]	20,2
-W	-3.137881448	-60.001598002	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP15 [5:Point]	20,2
-W	-3.138332469	-60.001930864	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP15 [6:Point]	20,2
-W	-3.133869945	-59.992333162	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP16 [1:Point]	20,2
-W	-3.134047504	-59.992621206	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP16 [2:Point]	20,2
-W	-3.134204613	-59.992898043	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP16 [3:Point]	20,2
-W	-3.134372520	-59.993162685	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP16 [4:Point]	20,2
-W	-3.134530170	-59.993384366	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP16 [5:Point]	20,2
-W	-3.134849493	-59.993847138	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP16 [6:Point]	20,2
-W	-3.134153243	-59.992340402	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP17 [1:Point]	20,2
-W	-3.134488205	-59.992378620	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP17 [2:Point]	20,2
-W	-3.134978583	-59.992429323	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP17 [3:Point]	20,2
-W	-3.135386505	-59.992461768	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP17 [4:Point]	20,2
-W	-3.135728223	-59.992462775	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP17 [5:Point]	20,2
-W	-3.136002646	-59.992453295	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP17 [6:Point]	20,2
-W	-3.131766374	-59.989292925	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP18 [1:Point]	20,2
-W	-3.132034025	-59.989443517	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP18 [2:Point]	20,2
-W	-3.132400071	-59.989679802	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP18 [3:Point]	20,2
-W	-3.132680808	-59.989993422	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP18 [4:Point]	20,2
-W	-3.132900478	-59.990247751	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP18 [5:Point]	20,2
-W	-3.134815300	-59.988402694	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP19 [1:Point]	20,2
-W	-3.134751375	-59.988660658	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP19 [2:Point]	20,2
-W	-3.134614680	-59.989114938	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP19 [3:Point]	20,2
-W	-3.134522577	-59.989350300	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP19 [4:Point]	20,2
-W	-3.134387024	-59.989708155	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP19 [5:Point]	20,2
-W	-3.134249394	-59.990033007	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP19 [6:Point]	20,2
-W	-3.135256393	-59.989558696	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP20 [1:Point]	20,2
-W	-3.135290137	-59.989750379	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP20 [2:Point]	20,2
-W	-3.135168662	-59.990111085	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP20 [3:Point]	20,2
-W	-3.135049853	-59.990431824	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP20 [4:Point]	20,2
-W	-3.135800972	-60.002057435	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP21 [1:Point]	20,2
-W	-3.136265713	-60.002078627	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP21 [2:Point]	20,2
-W	-3.136577503	-60.002031027	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP21 [3:Point]	20,2
-W	-3.136846427	-60.002026838	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP21 [4:Point]	20,2
-W	-3.137282051	-60.002110231	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP21 [5:Point]	20,2
-W	-3.135592984	-60.002390871	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP22 [1:Point]	20,2
-W	-3.135916640	-60.002363283	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP22 [2:Point]	20,2
-W	-3.136241913	-60.002372033	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP22 [3:Point]	20,2
-W	-3.136548049	-60.002391465	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP22 [4:Point]	20,2
-W	-3.136775244	-60.002379785	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP22 [5:Point]	20,2
-W	-3.137054817	-60.002386411	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP22 [6:Point]	20,2
-W	-3.137290469	-60.002411023	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	PP22 [7:Point]	20,2
+type	latitude	longitude	name
+W	-3.068120720	-59.931226910	PP01 [1:Point]
+W	-3.068454490	-59.931178680	PP01 [2:Point]
+W	-3.068696530	-59.931125640	PP01 [3:Point]
+W	-3.068851690	-59.931091270	PP01 [4:Point]
+W	-3.069131330	-59.931090200	PP01 [5:Point]
+W	-3.069438030	-59.931089040	PP01 [6:Point]
+W	-3.069726690	-59.931087950	PP01 [7:Point]
+W	-3.070024360	-59.931086820	PP01 [8:Point]
+W	-3.068047740	-59.931013340	PP01 [9:Point]
+W	-3.068057450	-59.930766280	PP01 [10:Point]
+W	-3.068067780	-59.930494650	PP01 [11:Point]
+W	-3.068074220	-59.930266660	PP01 [12:Point]
+W	-3.068075829	-59.930026319	PP01 [13:Point]
+W	-3.068075829	-59.929831329	PP01 [14:Point]
+W	-3.068075829	-59.929606865	PP01 [15:Point]
+W	-3.068040830	-59.929167310	PP01 [16:Point]
+W	-3.068250749	-59.929043711	PP01 [17:Point]
+W	-3.068162929	-59.928775130	PP01 [18:Point]
+W	-3.068056129	-59.928527951	PP01 [19:Point]
+W	-3.067970689	-59.928237980	PP01 [20:Point]
+W	-3.067894741	-59.928024072	PP01 [21:Point]
+W	-3.067849640	-59.927810150	PP01 [22:Point]
+W	-3.067795050	-59.927560600	PP01 [23:Point]
+W	-3.067754710	-59.927308650	PP01 [24:Point]
+W	-3.067728600	-59.927040080	PP01 [25:Point]
+W	-3.067695370	-59.926745350	PP01 [26:Point]
+W	-3.067638410	-59.926491030	PP01 [27:Point]
+W	-3.067590950	-59.926220080	PP01 [28:Point]
+W	-3.067566260	-59.926056770	PP01 [29:Point]
+W	-3.067514040	-59.925878510	PP01 [30:Point]
+W	-3.067473700	-59.925688360	PP01 [31:Point]
+W	-3.067355030	-59.925391270	PP01 [32:Point]
+W	-3.067223710	-59.925241010	PP01 [33:Point]
+W	-3.066913460	-59.925088720	PP01 [34:Point]
+W	-3.068016878	-59.931293961	PP01 [35:Point]
+W	-3.067840850	-59.931331240	PP01 [36:Point]
+W	-3.067656030	-59.931453210	PP01 [37:Point]
+W	-3.067582040	-59.931283910	PP01 [38:Point]
+W	-3.067596430	-59.931010020	PP01 [39:Point]
+W	-3.067629220	-59.930738390	PP01 [40:Point]
+W	-3.067633570	-59.930482260	PP01 [41:Point]
+W	-3.067631870	-59.930249900	PP01 [42:Point]
+W	-3.067620751	-59.930030853	PP01 [43:Point]
+W	-3.067620751	-59.929706627	PP01 [44:Point]
+W	-3.067608871	-59.929414500	PP01 [45:Point]
+W	-3.067462902	-59.929549378	PP01 [46:Point]
+W	-3.067185220	-59.929132250	PP01 [47:Point]
+W	-3.067004840	-59.928925460	PP01 [48:Point]
+W	-3.066795980	-59.928761470	PP01 [49:Point]
+W	-3.066487430	-59.928609350	PP01 [50:Point]
+W	-3.066214499	-59.928533891	PP01 [51:Point]
+W	-3.066054369	-59.928484010	PP01 [52:Point]
+W	-3.065745750	-59.928390090	PP01 [53:Point]
+W	-3.065593741	-59.928332821	PP01 [54:Point]
+W	-3.065204730	-59.928184000	PP01 [55:Point]
+W	-3.065003872	-59.928122969	PP01 [56:Point]
+W	-3.064715698	-59.928040709	PP01 [57:Point]
+W	-3.064537039	-59.927994980	PP01 [58:Point]
+W	-3.064257160	-59.927933060	PP01 [59:Point]
+W	-3.064022490	-59.927897970	PP01 [60:Point]
+W	-3.063778770	-59.927853910	PP01 [61:Point]
+W	-3.063534971	-59.927791861	PP01 [62:Point]
+W	-3.063273110	-59.927720878	PP01 [63:Point]
+W	-3.063011271	-59.927658901	PP01 [64:Point]
+W	-3.062749259	-59.927551941	PP01 [65:Point]
+W	-3.062523439	-59.927471830	PP01 [66:Point]
+W	-3.062261469	-59.927373871	PP01 [67:Point]
+W	-3.061927230	-59.927249190	PP01 [68:Point]
+W	-3.068798630	-59.931370340	PP01 [69:Point]
+W	-3.068799660	-59.931640220	PP01 [70:Point]
+W	-3.069070280	-59.931639200	PP01 [71:Point]
+W	-3.069367990	-59.931647060	PP01 [72:Point]
+W	-3.069683710	-59.931645870	PP01 [73:Point]
+W	-3.069999460	-59.931653670	PP01 [74:Point]
+W	-3.070324240	-59.931661430	PP01 [75:Point]
+W	-3.070322080	-59.931094690	PP01 [76:Point]
+W	-3.070619750	-59.931093560	PP01 [77:Point]
+W	-3.070827120	-59.931065790	PP01 [78:Point]
+W	-3.070935410	-59.931074370	PP01 [79:Point]
+W	-3.071070780	-59.931091850	PP01 [80:Point]
+W	-3.071100070	-59.931676490	PP01 [81:Point]
+W	-3.071029150	-59.932000610	PP01 [82:Point]
+W	-3.070618620	-59.930796700	PP01 [83:Point]
+W	-3.070626410	-59.930472810	PP01 [84:Point]
+W	-3.070625210	-59.930157950	PP01 [85:Point]
+W	-3.070633030	-59.929843060	PP01 [86:Point]
+W	-3.070631760	-59.929510210	PP01 [87:Point]
+W	-3.069500251	-59.930845911	PP01 [88:Point]
+W	-3.069499249	-59.930585028	PP01 [89:Point]
+W	-3.069498259	-59.930324149	PP01 [90:Point]
+W	-3.069497230	-59.930054270	PP01 [91:Point]
+W	-3.069496300	-59.929811380	PP01 [92:Point]
+W	-3.069495410	-59.929577490	PP01 [93:Point]
+W	-3.069512420	-59.929307540	PP01 [94:Point]
+W	-3.070409830	-59.925723710	PP01 [95:Point]
+W	-3.070651540	-59.925715810	PP01 [96:Point]
+W	-3.070870370	-59.925586980	PP01 [97:Point]
+W	-3.071130330	-59.925424100	PP01 [98:Point]
+W	-3.071373300	-59.925270250	PP01 [99:Point]
+W	-3.071643329	-59.925116289	PP01 [100:Point]
+W	-3.071783710	-59.925049460	PP01 [101:Point]
+W	-3.072015390	-59.924917320	PP01 [102:Point]
+W	-3.072183150	-59.924816110	PP01 [103:Point]
+W	-3.072426430	-59.924672510	PP01 [104:Point]
+W	-3.072660270	-59.924491700	PP01 [105:Point]
+W	-3.072848810	-59.924257080	PP01 [106:Point]
+W	-3.073010250	-59.924013580	PP01 [107:Point]
+W	-3.073058020	-59.923853330	PP01 [108:Point]
+W	-3.073110830	-59.923637630	PP01 [109:Point]
+W	-3.073233390	-59.923392000	PP01 [110:Point]
+W	-3.073097290	-59.923185610	PP01 [111:Point]
+W	-3.072989180	-59.923222000	PP01 [112:Point]
+W	-3.072854770	-59.923456410	PP01 [113:Point]
+W	-3.072702210	-59.923663900	PP01 [114:Point]
+W	-3.072504480	-59.923853570	PP01 [115:Point]
+W	-3.072306650	-59.924016250	PP01 [116:Point]
+W	-3.072108860	-59.924187930	PP01 [117:Point]
+W	-3.071883960	-59.924350710	PP01 [118:Point]
+W	-3.071703930	-59.924450350	PP01 [119:Point]
+W	-3.071469880	-59.924577181	PP01 [120:Point]
+W	-3.071244820	-59.924694990	PP01 [121:Point]
+W	-3.071028940	-59.924857730	PP01 [122:Point]
+W	-3.070831040	-59.925002420	PP01 [123:Point]
+W	-3.070758260	-59.924840770	PP01 [124:Point]
+W	-3.070685170	-59.924598160	PP01 [125:Point]
+W	-3.070602920	-59.924319590	PP01 [126:Point]
+W	-3.070529520	-59.923996010	PP01 [127:Point]
+W	-3.070474360	-59.923726340	PP01 [128:Point]
+W	-3.070410081	-59.923429711	PP01 [129:Point]
+W	-3.070364090	-59.923195990	PP01 [130:Point]
+W	-3.070317990	-59.922935280	PP01 [131:Point]
+W	-3.070542808	-59.922754499	PP01 [132:Point]
+W	-3.070740511	-59.922555839	PP01 [133:Point]
+W	-3.070983338	-59.922366000	PP01 [134:Point]
+W	-3.071181340	-59.922248301	PP01 [135:Point]
+W	-3.071415222	-59.922076480	PP01 [136:Point]
+W	-3.070961499	-59.923733481	PP01 [137:Point]
+W	-3.071141220	-59.923552880	PP01 [138:Point]
+W	-3.071329970	-59.923372240	PP01 [139:Point]
+W	-3.071482830	-59.923245720	PP01 [140:Point]
+W	-3.071409459	-59.922931130	PP01 [141:Point]
+W	-3.071363369	-59.922670420	PP01 [142:Point]
+W	-3.071219489	-59.922787920	PP01 [143:Point]
+W	-3.071030671	-59.922950559	PP01 [144:Point]
+W	-3.070841900	-59.923122211	PP01 [145:Point]
+W	-3.070653051	-59.923275850	PP01 [146:Point]
+W	-3.071676121	-59.921895569	PP01 [147:Point]
+W	-3.071919060	-59.921732720	PP01 [148:Point]
+W	-3.072134860	-59.921551980	PP01 [149:Point]
+W	-3.072377690	-59.921362130	PP01 [150:Point]
+W	-3.072575520	-59.921199450	PP01 [151:Point]
+W	-3.072809290	-59.921000650	PP01 [152:Point]
+W	-3.073016040	-59.920810950	PP01 [153:Point]
+W	-3.066804170	-59.924037130	PP01 [154:Point]
+W	-3.066578110	-59.923894050	PP01 [155:Point]
+W	-3.066262420	-59.923904250	PP01 [156:Point]
+W	-3.066018800	-59.923887180	PP01 [157:Point]
+W	-3.065730080	-59.923870280	PP01 [158:Point]
+W	-3.065495130	-59.923763220	PP01 [159:Point]
+W	-3.065232920	-59.923602280	PP01 [160:Point]
+W	-3.065042910	-59.923450070	PP01 [161:Point]
+W	-3.064816820	-59.923298000	PP01 [162:Point]
+W	-3.064672009	-59.923172600	PP01 [163:Point]
+W	-3.064436790	-59.922993570	PP01 [164:Point]
+W	-3.064282960	-59.922868211	PP01 [165:Point]
+W	-3.064093050	-59.922742990	PP01 [166:Point]
+W	-3.063912030	-59.922581750	PP01 [167:Point]
+W	-3.064055869	-59.922455250	PP01 [168:Point]
+W	-3.064226340	-59.922211720	PP01 [169:Point]
+W	-3.064270890	-59.922067610	PP01 [170:Point]
+W	-3.064315230	-59.921869530	PP01 [171:Point]
+W	-3.064585850	-59.921868510	PP01 [172:Point]
+W	-3.064766290	-59.921876820	PP01 [173:Point]
+W	-3.064819900	-59.921741670	PP01 [174:Point]
+W	-3.064873300	-59.921552560	PP01 [175:Point]
+W	-3.064944470	-59.921291400	PP01 [176:Point]
+W	-3.065015710	-59.921048240	PP01 [177:Point]
+W	-3.065068870	-59.920796150	PP01 [178:Point]
+W	-3.065121860	-59.920499080	PP01 [179:Point]
+W	-3.064896140	-59.920445960	PP01 [180:Point]
+W	-3.064652240	-59.920356920	PP01 [181:Point]
+W	-3.064471630	-59.920303630	PP01 [182:Point]
+W	-3.064309060	-59.920250270	PP01 [183:Point]
+W	-3.064056240	-59.920188260	PP01 [184:Point]
+W	-3.063875560	-59.920116980	PP01 [185:Point]
+W	-3.063613660	-59.920037010	PP01 [186:Point]
+W	-3.063442000	-59.919965690	PP01 [187:Point]
+W	-3.063388770	-59.920199790	PP01 [188:Point]
+W	-3.063344390	-59.920388870	PP01 [189:Point]
+W	-3.063308920	-59.920550930	PP01 [190:Point]
+W	-3.063237960	-59.920866060	PP01 [191:Point]
+W	-3.063048560	-59.920875780	PP01 [192:Point]
+W	-3.062975130	-59.920543200	PP01 [193:Point]
+W	-3.062811800	-59.920291930	PP01 [194:Point]
+W	-3.062558340	-59.920059000	PP01 [195:Point]
+W	-3.062647650	-59.919824760	PP01 [196:Point]
+W	-3.062691620	-59.919527730	PP01 [197:Point]
+W	-3.062726640	-59.919248720	PP01 [198:Point]
+W	-3.062761550	-59.918942720	PP01 [199:Point]
+W	-3.062823530	-59.918636620	PP01 [200:Point]
+W	-3.062885920	-59.918438480	PP01 [201:Point]
+W	-3.062921210	-59.918231430	PP01 [202:Point]
+W	-3.062956670	-59.918069370	PP01 [203:Point]
+W	-3.062937770	-59.917844540	PP01 [204:Point]
+W	-3.062828640	-59.917611060	PP01 [205:Point]
+W	-3.062531270	-59.917693150	PP01 [206:Point]
+W	-3.062595310	-59.917926810	PP01 [207:Point]
+W	-3.062542150	-59.918178900	PP01 [208:Point]
+W	-3.062470910	-59.918422060	PP01 [209:Point]
+W	-3.062408830	-59.918701170	PP01 [210:Point]
+W	-3.062364660	-59.918944230	PP01 [211:Point]
+W	-3.062311600	-59.919223310	PP01 [212:Point]
+W	-3.062267450	-59.919475360	PP01 [213:Point]
+W	-3.062214400	-59.919754440	PP01 [214:Point]
+W	-3.067057080	-59.924126130	PP01 [215:Point]
+W	-3.067250490	-59.924237830	PP01 [216:Point]
+W	-3.066279950	-59.923769240	PP01 [217:Point]
+W	-3.066279130	-59.923553340	PP01 [218:Point]
+W	-3.066287700	-59.923436360	PP01 [219:Point]
+W	-3.066549330	-59.923444360	PP01 [220:Point]
+W	-3.066811198	-59.923515339	PP01 [221:Point]
+W	-3.067091240	-59.923622230	PP01 [222:Point]
+W	-3.067371150	-59.923693130	PP01 [223:Point]
+W	-3.067624068	-59.923782128	PP01 [224:Point]
+W	-3.067858980	-59.923880199	PP01 [225:Point]
+W	-3.068139201	-59.924032068	PP01 [226:Point]
+W	-3.068410460	-59.924201971	PP01 [227:Point]
+W	-3.068578281	-59.924328280	PP01 [228:Point]
+W	-3.068759480	-59.924450520	PP01 [229:Point]
+W	-3.068894761	-59.924593138	PP01 [230:Point]
+W	-3.069134470	-59.924819950	PP01 [231:Point]
+W	-3.070138940	-59.925652770	PP01 [232:Point]
+W	-3.069306550	-59.924999210	PP01 [233:Point]
+W	-3.069560010	-59.925232150	PP01 [234:Point]
+W	-3.069732090	-59.925411420	PP01 [235:Point]
+W	-3.069922100	-59.925563630	PP01 [236:Point]
+W	-3.078986243	-59.935623376	PP01 [237:Point]
+W	-3.078916150	-59.935432310	PP01 [238:Point]
+W	-3.078820360	-59.935247530	PP01 [239:Point]
+W	-3.078700240	-59.935019570	PP01 [240:Point]
+W	-3.078582660	-59.934773800	PP01 [241:Point]
+W	-3.078442450	-59.934482760	PP01 [242:Point]
+W	-3.078303480	-59.934161950	PP01 [243:Point]
+W	-3.078202350	-59.933877250	PP01 [244:Point]
+W	-3.078111310	-59.933658720	PP01 [245:Point]
+W	-3.078013880	-59.933468280	PP01 [246:Point]
+W	-3.077903760	-59.933215460	PP01 [247:Point]
+W	-3.077813320	-59.933035790	PP01 [248:Point]
+W	-3.077682110	-59.932785650	PP01 [249:Point]
+W	-3.077525450	-59.932486860	PP01 [250:Point]
+W	-3.077381430	-59.932214280	PP01 [251:Point]
+W	-3.077229770	-59.931949740	PP01 [252:Point]
+W	-3.077100550	-59.931606760	PP01 [253:Point]
+W	-3.076976320	-59.931342570	PP01 [254:Point]
+W	-3.076856520	-59.931105880	PP01 [255:Point]
+W	-3.076738640	-59.930852460	PP01 [256:Point]
+W	-3.076577940	-59.930534250	PP01 [257:Point]
+W	-3.076437640	-59.930219740	PP01 [258:Point]
+W	-3.076223080	-59.930318670	PP01 [259:Point]
+W	-3.076054100	-59.930419500	PP01 [260:Point]
+W	-3.075852360	-59.930521700	PP01 [261:Point]
+W	-3.075681480	-59.930669060	PP01 [262:Point]
+W	-3.075420480	-59.930774140	PP01 [263:Point]
+W	-3.075766910	-59.930859200	PP01 [264:Point]
+W	-3.075840490	-59.931039840	PP01 [265:Point]
+W	-3.075928300	-59.931225230	PP01 [266:Point]
+W	-3.076042220	-59.931472420	PP01 [267:Point]
+W	-3.076205980	-59.931817050	PP01 [268:Point]
+W	-3.076319990	-59.932040970	PP01 [269:Point]
+W	-3.076414920	-59.932240620	PP01 [270:Point]
+W	-3.076509850	-59.932430760	PP01 [271:Point]
+W	-3.076623700	-59.932673890	PP01 [272:Point]
+W	-3.076853920	-59.933154000	PP01 [273:Point]
+W	-3.076960720	-59.933356030	PP01 [274:Point]
+W	-3.077060400	-59.933574700	PP01 [275:Point]
+W	-3.077152000	-59.933834200	PP01 [276:Point]
+W	-3.077294400	-59.934134860	PP01 [277:Point]
+W	-3.077445100	-59.934407020	PP01 [278:Point]
+W	-3.077558880	-59.934650390	PP01 [279:Point]
+W	-3.077789230	-59.935136560	PP01 [280:Point]
+W	-3.077882650	-59.935388010	PP01 [281:Point]
+W	-3.077993120	-59.934479790	PP01 [282:Point]
+W	-3.077856880	-59.934189100	PP01 [283:Point]
+W	-3.077696790	-59.933913170	PP01 [284:Point]
+W	-3.077597380	-59.933677490	PP01 [285:Point]
+W	-3.077518470	-59.933487950	PP01 [286:Point]
+W	-3.077352320	-59.933155190	PP01 [287:Point]
+W	-3.077233660	-59.932917510	PP01 [288:Point]
+W	-3.077088890	-59.932620410	PP01 [289:Point]
+W	-3.076958350	-59.932351830	PP01 [290:Point]
+W	-3.076837300	-59.932085630	PP01 [291:Point]
+W	-3.076742370	-59.931900240	PP01 [292:Point]
+W	-3.076609460	-59.931603140	PP01 [293:Point]
+W	-3.076471800	-59.931317930	PP01 [294:Point]
+W	-3.076365000	-59.931075490	PP01 [295:Point]
+W	-3.076270070	-59.930885350	PP01 [296:Point]
+W	-3.076172760	-59.930666680	PP01 [297:Point]

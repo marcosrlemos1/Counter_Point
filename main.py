@@ -13,11 +13,10 @@ def read_txt_file(file_name):
         return []
 
     data = []
-    # Pattern to capture points in the old format (PPxx [xx:Point])
-    new_pattern = re.compile(r'W\t(-?\d+\.\d+)\t(-?\d+\.\d+)\t.*\t.*\t(PP\d+ \[\d+:Point\])\t.*')
+    # Pattern to capture latitude, longitude, and name
+    new_pattern = re.compile(r'W\t(-?\d+\.\d+)\t(-?\d+\.\d+)\t(PP\d+ \[\d+:Point\])')
 
     for line in lines:
-        print(line)
         match = new_pattern.match(line)
         if match:
             latitude = match.group(1)
@@ -27,6 +26,9 @@ def read_txt_file(file_name):
             print(f'Found in new format: Latitude: {latitude}, Longitude: {longitude}, Name: {name}')
 
     return data
+
+file_name = 'your_file_path.txt'
+results = read_txt_file(file_name)
 
 def format_coordinate(coordinate):
     integer_part, decimal_part = coordinate.split('.')
@@ -51,23 +53,27 @@ def display_info(index):
     formatted_longitude = format_coordinate(result["longitude"])
     info_text.set(f'Point: {result["name"]}\nLatitude: {formatted_latitude}\nLongitude: {formatted_longitude}')
     pyperclip.copy(f'{formatted_latitude}\n{formatted_longitude}')
+    print(f'Displaying info for index {index}')
 
 def choose_file():
-    global results, current_index
+    global results, current_index, point_names
     file_name = filedialog.askopenfilename(filetypes=[("TXT Files", "*.txt")])
     if file_name:
         results = read_txt_file(file_name)
         if results:
             point_names = [result['name'] for result in results]
+            print(f'Point names: {point_names}')
             points_combo['values'] = point_names
-            points_combo.current(0)
+            points_combo.current(0)  # Seleciona o primeiro ponto
             current_index = 0
-            display_info(0)
+            display_info(0)  # Exibe as informações do primeiro ponto
+            print('Choose file completed')
 
 def select_point(event):
     global current_index
     current_index = points_combo.current()
     display_info(current_index)
+    print(f'Selected point: {current_index}')
 
 root = tk.Tk()
 root.title("Point")
@@ -96,18 +102,22 @@ points_combo.bind("<<ComboboxSelected>>", select_point)
 
 def back():
     global current_index
-    current_index = max(0, current_index - 1)
+    if current_index > 0:
+        current_index -= 1
     display_info(current_index)
     points_combo.current(current_index)
+    print(f'Back. Current index: {current_index}')
 
 back_button = ttk.Button(frame, text="Back", command=back)
 back_button.grid(column=0, row=2, padx=10, pady=10)
 
 def forward():
     global current_index
-    current_index = min(len(results) - 1, current_index + 1)
+    if current_index < len(results) - 1:
+        current_index += 1
     display_info(current_index)
     points_combo.current(current_index)
+    print(f'Forward. Current index: {current_index}')
 
 forward_button = ttk.Button(frame, text="Forward", command=forward)
 forward_button.grid(column=1, row=2, padx=10, pady=10)
